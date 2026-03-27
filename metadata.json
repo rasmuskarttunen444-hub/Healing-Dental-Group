@@ -1,0 +1,5 @@
+{
+  "name": "Healing Dental Group | Family Dentist Hartsdale, NY",
+  "description": "Gentle, family-focused dental care in Hartsdale, NY. Comprehensive dentistry for children and adults including preventive, cosmetic, and periodontal care.",
+  "requestFramePermissions": ["geolocation"]
+}
